@@ -1,4 +1,4 @@
-name: "kubectl via eksctl"
+name: "kubectl via aks"
 description: "Issues kubectl commands with a kubeconfig exported via aks."
 branding:
   icon: "anchor"
