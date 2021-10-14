@@ -1,0 +1,8 @@
+name: "kubectl via az aks cli"
+description: "Issues kubectl commands with a kubeconfig exported via az aks cli."
+branding:
+  icon: "anchor"
+  color: "blue"
+runs:
+  using: "docker"
+  image: "Dockerfile"
